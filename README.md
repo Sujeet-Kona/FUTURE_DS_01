@@ -181,9 +181,5 @@ Protect and retain top profitable customers
 
 Develop loyalty programs for high-margin segments
 
-📊 Sample Visualizations
-
-(Insert screenshots in the images folder and reference them like below)
-
-![Sales by Category](images/sales_by_category.png)
-![Profit by Region](images/profit_by_region.png)
+my github repository link
+https://github.com/Sujeet-Kona/FUTURE_DS_01
