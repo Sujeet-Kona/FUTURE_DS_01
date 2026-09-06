@@ -23,7 +23,7 @@ Identify which categories and sub-categories drive revenue and profit
 
 Detect loss-making products and regions
 
-Analyze customer purchase behavior
+Analyze customer purchase behavior and requriements
 
 Measure revenue and profit concentration
 
